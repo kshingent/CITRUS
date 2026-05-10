@@ -37,10 +37,12 @@
 房の内側の直線部分を数ミリ切り落とす。
 3. **背中に縦に1本ハサミで切り込みを入れる**
 房の背中の真ん中に縦方向に切り込みを入れる。
-![代替テキスト](citrus_cut.png)
+![Cutting line of inner skin](images/citrus_cut.png)
+![Paint of cut piece](images/citrus_cut_paint.png)
 5. **背中の切り込みから外側に向かって剥く**
 背中に入れた切り込みを起点とし、繊維の方向（背の真ん中から外側）に反対に向く形で薄皮を剥がす。
-6. **果肉を取り出す**
+![Paint of pealing inner skin](images/citrus_pealing.png)
+7. **果肉を取り出す**
 繊維の結合を逆方向に攻略することで、苦い薄皮が果肉に残らない。
 
 ---
