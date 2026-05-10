@@ -1,7 +1,3 @@
-承知いたしました。元の記述のトーン（だ・である調）を維持し、削除してしまったURLを元の位置に戻した上で、未完成だった用語解説を補完し、全体の体裁を整えました。
-
----
-
 # CITRUS
 
 **C**omplete **I**nner-membrane **T**earing by **R**emoving **U**nder **S**pine
